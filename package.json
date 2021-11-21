@@ -1,6 +1,6 @@
 {
 	"name": "@sumotto/has-wordpress-plugin-directory",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Checks that the plugin directory exists in WordPress plugins directory",
 	"keywords": [
 		"wordpress",
